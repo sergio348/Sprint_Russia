@@ -1,0 +1,7 @@
+.cover__photo {
+    transition: 1s;
+}
+
+.cover__photo:hover {
+    opacity: 0.6;
+}
